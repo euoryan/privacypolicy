@@ -1,0 +1,40 @@
+/* styles.css */
+
+/* Definindo uma fonte global e cor de fundo */
+body {
+    font-family: 'Space Grotesk', sans-serif; /* Define Space Grotesk como a fonte principal */
+    background-color: #f9f9f9; /* Cor de fundo da página */
+    color: #333; /* Cor do texto */
+    margin: 40px;
+    line-height: 1.6;
+}
+
+/* Estilizando o título principal */
+h1 {
+    color: #dc3545; /* Cor específica para o título principal */
+    font-size: 2em; /* Tamanho da fonte do título principal */
+    margin-bottom: 20px;
+}
+
+/* Estilizando títulos secundários */
+h2 {
+    color: #202020; /* Cor para os subtítulos */
+    font-size: 1.5em; /* Tamanho da fonte dos subtítulos */
+    margin-top: 20px;
+}
+
+/* Estilizando parágrafos */
+p {
+    margin-bottom: 20px;
+    text-align: justify; /* Alinha o texto dos parágrafos para ambos os lados */
+}
+
+/* Estilizando links */
+a {
+    color: #dc3545; /* Cor dos links */
+    text-decoration: none; /* Remove sublinhado dos links */
+}
+
+a:hover {
+    text-decoration: underline; /* Sublinha links ao passar o mouse */
+}
